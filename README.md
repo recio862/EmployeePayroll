@@ -2,6 +2,7 @@ EmployeePayroll
 ===============
 
 Designed to handle a complete payroll for various types of employees
+
 ===============
 
 Program input
@@ -37,6 +38,7 @@ The transaction file has one line for each employee who worked containing:
 This file may have any number of transactions and may be in any order.
 
 See the document attached named "trans10.txt" for an example of this file
+
 ==================
 
 Calculations
