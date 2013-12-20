@@ -7,6 +7,7 @@ Designed to handle a complete payroll for various types of employees
 Program input
 
 The program input consists of two files - a master file and a transaction file. 
+Note: the input should be entered during runtime
 
 ===============
 
