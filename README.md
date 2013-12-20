@@ -1,7 +1,7 @@
 EmployeePayroll
 ===============
 
-Designed to handle a complete payroll for various types employees
+Designed to handle a complete payroll for various types of employees
 ===============
 
 Program input
