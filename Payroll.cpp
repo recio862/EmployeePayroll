@@ -1,8 +1,7 @@
 /* 
 Name: Renato Recio 
-ACC ID : r1154565
 Program Status: Complete
-Program Function: Payroll Report 3.0
+Program Function: Payroll Report
 				  Uses two input files to process
 				  Payroll Information for up to 100 Employees
 				
